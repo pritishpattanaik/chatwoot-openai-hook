@@ -1,6 +1,9 @@
 # chatwoot-webhook-openai
 To integrate Google Dialogflow ES with OpenAI, you can follow these general steps. The integration involves using Dialogflow for NLP tasks and leveraging OpenAI’s models to enhance responses where necessary. Here’s a step-by-step guide:
 
+![image](https://github.com/user-attachments/assets/eeca6fd6-a161-46ae-aaa1-4f1f3e5efa9a)
+
+
 # Chatwoot OpenAI Integration
 
 This project integrates **Chatwoot** with **OpenAI** to automate customer support responses using AI. By following the steps below, you can set up the integration, automate responses, and enhance your customer support capabilities.
